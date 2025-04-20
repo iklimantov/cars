@@ -7,13 +7,17 @@ Link to the website:
 https://iklimantov.github.io/cars/
 Or you can find it in the about Actions tab
 
+
 Website functionality: 
+
 displaying one page of an online car rental store
 Functionality of all visible buttons
 Working filters
 Auto-completion of the rental car field
 Checking the correctness of fields
 
+
+The layout was created using HTML, CSS, TypeScript, JavaScript, and the Angular framework.
 
 ..................................................
 
@@ -33,3 +37,6 @@ https://iklimantov.github.io/cars/
 Работающие фильтры.
 Автоматическое заполнение поля "Аренда автомобиля".
 Проверка правильности заполнения полей при заказе.
+
+
+Верстка создана с использованием языков HTML, CSS, TypeScript, JavaScript и фреймворка Angular.
